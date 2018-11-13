@@ -44,9 +44,11 @@ Vous pouvez aussi suivre la vidéo tutoriel suivante :
 
 ---
 
-#### 6. Test sur README.md
+#### 6. Ne pas confondre Fetch et Pull
 
-Désolé je test
+Les commandes git pull et git fetch sont toutes les deux utilisées pour mettre à jour un répertoire de travail local avec les données d'un repository distant. Elles n'ont cependant pas le même fonctionnement.
+
+
 
 
 
