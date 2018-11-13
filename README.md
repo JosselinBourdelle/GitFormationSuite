@@ -7,7 +7,7 @@
 ---
 #### 1. Avant Quoi que ce soit
 
-	Vérifier que les ajouts et modification apporter au projet sont sans bug et fonctionnelle
+	Vérifier que les ajouts et modifications apporté au projet sont sans bug et fonctionnels
 
 ---
 #### 2. add
