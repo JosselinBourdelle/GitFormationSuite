@@ -39,6 +39,7 @@
 Pour en savoir plus sur les commandes git cliquer [ici](https://gist.github.com/aquelito/8596717)
 
 Vous pouvez aussi suivre la vidéo tutoriel suivante :
+
 <a href="https://www.youtube.com/watch?v=aQj86UD8mwA" target="_blank"><img src="http://img.youtube.com/vi/aQj86UD8mwA/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ---
