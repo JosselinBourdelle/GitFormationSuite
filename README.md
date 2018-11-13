@@ -6,13 +6,12 @@
 
 ---
 #### 1. Avant Quoi que ce soit
----
 
 	Vérifier que les ajouts et modification apporter au projet sont sans bug et fonctionnelle
 
 ---
 #### 2. add
----
+
 
 > git add .
 
@@ -22,7 +21,6 @@
 
 ---
 #### 3. status
----
 
 > git status
 
@@ -30,7 +28,6 @@
 
 ---
 #### 4. commit
----
 
 > git commit -m "__"
 
@@ -38,10 +35,10 @@
 
 ---
 #### 5. En savoir plus
----
 
 Pour en savoir plus sur les commandes git cliquer [ici](https://gist.github.com/aquelito/8596717)
 
+---
 
 
 
